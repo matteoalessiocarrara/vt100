@@ -1,4 +1,4 @@
-# Attenzione: lavori in corso
+# Header per utilizzare le sequenze di escape ANSI in c++
 
 ## Per aggiornamenti
 
